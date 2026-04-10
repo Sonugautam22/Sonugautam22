@@ -8,7 +8,7 @@
 🎓 BCA (2026)  
 📊 Passionate about Data Analytics & Business Intelligence  
 💡 Love solving real-world problems using data  
-🎯 Career Goal: To become a Senoir Data Analyst and work on real-world business problems  
+🎯 Career Goal: To become a Senior Data Analyst and work on real-world business problems  
 
 ---
 
